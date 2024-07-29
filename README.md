@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hey there :wave:  Anku here!
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world- I'm Anku">
 
@@ -8,5 +8,3 @@
 </p>
 
 ## About me
-
-Hi there 👋. Anku here!
